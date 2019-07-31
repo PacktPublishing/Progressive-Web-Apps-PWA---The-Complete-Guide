@@ -1,0 +1,22 @@
+Preparing the Emulated Device for ALL PWA Features
+In the previous video, we set up an emulated Android device to test the PWA - this is optional.
+
+Here are some more details about the process and how to prepare the device for the rest of the course though.
+
+Setting up Android Studio:
+
+In case you don't have Android Studio installed, make sure to do so. It's free!
+
+You can download it from this URL: https://developer.android.com/studio/index.html
+
+We only install it to get easy access to the Android Virtual Device (AVD) Manager though. You can access that Manager under "Tools" => "Android" => "AVD Manager". 
+
+Detailed instructions on how to create a device with it can be found here: https://developer.android.com/studio/run/managing-avds.html
+
+Updating Chrome on the Virtual Device
+
+With an emulated device up and running, you're well-prepared to test your manifest.json file. For other features you learn about in this course, the pre-installed Chrome browser is too old though (at least at the point of time this course is created).
+
+You can easily update Chrome on your virtual device though. Get an updated APK (basically the app installation file) from this link: https://www.apkmirror.com/apk/google-inc/chrome/#variants
+
+Feel free to choose the latest one, download and install it. Give the device the permission to install from "unsafe" sources. If it fails, try a different APK version.

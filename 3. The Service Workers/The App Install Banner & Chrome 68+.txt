@@ -1,0 +1,6 @@
+The App Install Banner & Chrome 68+
+In the next lecture, I'll show you how Chrome automatically shows an "App Install Banner". Starting with Chrome version 68, it'll not do this automatically anymore. You instead have to listen to a specific event (beforeinstallprompt ) and then show the banner manually.
+
+This approach is covered in this course! You'll learn all about it in lecture 38 - don't skip the next lectures though, they're still important.
+
+Read more about this change: https://developers.google.com/web/fundamentals/app-install-banners/
